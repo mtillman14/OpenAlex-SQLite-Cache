@@ -1,0 +1,301 @@
+{
+    "id": "https://openalex.org/C71924100",
+    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+    "display_name": "Medicine",
+    "level": 0,
+    "description": "field of study for diagnosing, treating and preventing disease",
+    "works_count": 64188470,
+    "cited_by_count": 840853566,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Asklepios.3.jpg",
+    "image_thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Asklepios.3.jpg/66px-Asklepios.3.jpg",
+    "works_api_url": "https://api.openalex.org/works?filter=concepts.id:C71924100",
+    "updated_date": "2025-02-24T12:33:45.039515",
+    "ancestors": [],
+    "counts_by_year": [
+        {
+            "year": 2012,
+            "works_count": 1888090,
+            "cited_by_count": 27335566
+        },
+        {
+            "year": 2013,
+            "works_count": 1983383,
+            "cited_by_count": 29262999
+        },
+        {
+            "year": 2014,
+            "works_count": 2042078,
+            "cited_by_count": 31272169
+        },
+        {
+            "year": 2015,
+            "works_count": 2112857,
+            "cited_by_count": 32543080
+        },
+        {
+            "year": 2016,
+            "works_count": 2144738,
+            "cited_by_count": 32975424
+        },
+        {
+            "year": 2017,
+            "works_count": 2166702,
+            "cited_by_count": 34696619
+        },
+        {
+            "year": 2018,
+            "works_count": 2279024,
+            "cited_by_count": 36511418
+        },
+        {
+            "year": 2019,
+            "works_count": 2363270,
+            "cited_by_count": 40665237
+        },
+        {
+            "year": 2020,
+            "works_count": 2757763,
+            "cited_by_count": 50969437
+        },
+        {
+            "year": 2021,
+            "works_count": 2662505,
+            "cited_by_count": 56947858
+        },
+        {
+            "year": 2022,
+            "works_count": 2448156,
+            "cited_by_count": 56531991
+        },
+        {
+            "year": 2023,
+            "works_count": 2652960,
+            "cited_by_count": 57503735
+        },
+        {
+            "year": 2024,
+            "works_count": 2410873,
+            "cited_by_count": 55802844
+        },
+        {
+            "year": 2025,
+            "works_count": 119309,
+            "cited_by_count": 3029544
+        }
+    ],
+    "ids": {
+        "openalex": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "wikipedia": "https://en.wikipedia.org/wiki/Medicine",
+        "umls_cui": [
+            "C0013227"
+        ],
+        "mag": 71924100
+    },
+    "related_concepts": [
+        {
+            "id": "https://openalex.org/C141071460",
+            "score": 104.96226
+        },
+        {
+            "id": "https://openalex.org/C159110408",
+            "score": 79.02369
+        },
+        {
+            "id": "https://openalex.org/C127413603",
+            "score": 69.63139
+        },
+        {
+            "id": "https://openalex.org/C199539241",
+            "score": 67.21371
+        },
+        {
+            "id": "https://openalex.org/C86803240",
+            "score": 66.43467
+        },
+        {
+            "id": "https://openalex.org/C138885662",
+            "score": 61.929935
+        },
+        {
+            "id": "https://openalex.org/C187212893",
+            "score": 57.680614
+        },
+        {
+            "id": "https://openalex.org/C142724271",
+            "score": 55.289818
+        },
+        {
+            "id": "https://openalex.org/C118552586",
+            "score": 54.235756
+        },
+        {
+            "id": "https://openalex.org/C185592680",
+            "score": 52.84301
+        },
+        {
+            "id": "https://openalex.org/C15744967",
+            "score": 52.07612
+        },
+        {
+            "id": "https://openalex.org/C199343813",
+            "score": 51.967052
+        },
+        {
+            "id": "https://openalex.org/C33923547",
+            "score": 50.313683
+        },
+        {
+            "id": "https://openalex.org/C121332964",
+            "score": 49.542545
+        },
+        {
+            "id": "https://openalex.org/C42407357",
+            "score": 43.246902
+        },
+        {
+            "id": "https://openalex.org/C126322002",
+            "score": 38.005802
+        },
+        {
+            "id": "https://openalex.org/C42972112",
+            "score": 37.586826
+        },
+        {
+            "id": "https://openalex.org/C1862650",
+            "score": 35.260742
+        },
+        {
+            "id": "https://openalex.org/C105702510",
+            "score": 34.528137
+        },
+        {
+            "id": "https://openalex.org/C118487528",
+            "score": 34.469727
+        },
+        {
+            "id": "https://openalex.org/C36289849",
+            "score": 32.23799
+        },
+        {
+            "id": "https://openalex.org/C29456083",
+            "score": 30.138542
+        },
+        {
+            "id": "https://openalex.org/C98274493",
+            "score": 28.947195
+        },
+        {
+            "id": "https://openalex.org/C131872663",
+            "score": 28.515833
+        },
+        {
+            "id": "https://openalex.org/C15708023",
+            "score": 25.8888
+        },
+        {
+            "id": "https://openalex.org/C150903083",
+            "score": 25.69762
+        },
+        {
+            "id": "https://openalex.org/C169760540",
+            "score": 21.594986
+        },
+        {
+            "id": "https://openalex.org/C126838900",
+            "score": 19.822334
+        },
+        {
+            "id": "https://openalex.org/C556039675",
+            "score": 19.685818
+        },
+        {
+            "id": "https://openalex.org/C512399662",
+            "score": 18.738947
+        },
+        {
+            "id": "https://openalex.org/C143998085",
+            "score": 18.646305
+        },
+        {
+            "id": "https://openalex.org/C42219234",
+            "score": 18.243666
+        },
+        {
+            "id": "https://openalex.org/C89423630",
+            "score": 17.219149
+        },
+        {
+            "id": "https://openalex.org/C16005928",
+            "score": 17.12297
+        },
+        {
+            "id": "https://openalex.org/C194828623",
+            "score": 16.548315
+        },
+        {
+            "id": "https://openalex.org/C203014093",
+            "score": 15.333414
+        },
+        {
+            "id": "https://openalex.org/C136229726",
+            "score": 13.724577
+        },
+        {
+            "id": "https://openalex.org/C177713679",
+            "score": 11.984015
+        },
+        {
+            "id": "https://openalex.org/C509550671",
+            "score": 10.960836
+        },
+        {
+            "id": "https://openalex.org/C99508421",
+            "score": 10.425153
+        },
+        {
+            "id": "https://openalex.org/C39432304",
+            "score": 8.721579
+        },
+        {
+            "id": "https://openalex.org/C33070731",
+            "score": 7.1652966
+        },
+        {
+            "id": "https://openalex.org/C19417346",
+            "score": 7.150355
+        },
+        {
+            "id": "https://openalex.org/C119767625",
+            "score": 5.244981
+        },
+        {
+            "id": "https://openalex.org/C74909509",
+            "score": 4.942619
+        },
+        {
+            "id": "https://openalex.org/C155647269",
+            "score": 4.4052873
+        },
+        {
+            "id": "https://openalex.org/C37621935",
+            "score": 4.359523
+        },
+        {
+            "id": "https://openalex.org/C548259974",
+            "score": 3.0096674
+        },
+        {
+            "id": "https://openalex.org/C545542383",
+            "score": 2.987898
+        },
+        {
+            "id": "https://openalex.org/C186060115",
+            "score": 2.4660628
+        },
+        {
+            "id": "https://openalex.org/C16685009",
+            "score": 1.6032703
+        }
+    ]
+}

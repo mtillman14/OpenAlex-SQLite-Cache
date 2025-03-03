@@ -76,7 +76,7 @@ CREATE TABLE concepts_counts_by_year (
     year INTEGER,
     works_count INTEGER,
     cited_by_count INTEGER,
-    oa_works_count INTEGER,
+    -- oa_works_count INTEGER, # Removed because it wasn't present in the payload from OpenAlex web API
     PRIMARY KEY (concept_id, year)
 );
 
@@ -85,7 +85,7 @@ CREATE TABLE concepts_ids (
     openalex TEXT,
     wikidata TEXT,
     wikipedia TEXT,
-    umls_aui TEXT, -- Changed from JSON
+    -- umls_aui TEXT, -- Changed from JSON # Removed because it wasn't present in the payload from OpenAlex web API
     umls_cui TEXT, -- Changed from JSON
     mag INTEGER -- Changed from BIGINT
 );
