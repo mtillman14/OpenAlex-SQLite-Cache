@@ -3,7 +3,7 @@ from typing import Union, List
 
 import pyalex
 
-from clean import remove_base_url
+from .clean import remove_base_url
 
 class Source:
 

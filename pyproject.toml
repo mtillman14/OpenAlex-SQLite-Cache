@@ -1,5 +1,9 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project]
-name = "OpenAlex-SQLite-Cache"
+name = "openalex_sqlite_cache"
 version = "0.1.0"
 description = "A SQLite cache for OpenAlex API"
 readme = "README.md"
@@ -9,6 +13,9 @@ authors = [
 ]
 maintainers = [
     {name = "Mitchell Tillman", email = "mtillman14@gmail.com"}
+]
+dependencies = [
+    
 ]
 
 [project.urls]

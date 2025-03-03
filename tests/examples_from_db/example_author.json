@@ -1,0 +1,96 @@
+{
+    "id": "https://openalex.org/A5023888391",
+    "orcid": "https://orcid.org/0000-0001-6187-6610",
+    "display_name": "Jason Priem",
+    "display_name_alternatives": [
+        "Priem Jason",
+        "Jason Priem"
+    ],
+    "works_count": 62,
+    "cited_by_count": 3830,
+    "last_known_institutions": [
+        "I4200000001"
+    ],
+    "works_api_url": "https://openalex.org/https://api.openalex.org/works?filter=author.id:A5023888391",
+    "updated_date": "2025-02-21T17:08:40.008843",
+    "ids": {
+        "openalex": "https://openalex.org/A5023888391",
+        "orcid": "https://orcid.org/0000-0001-6187-6610",
+        "scopus": "http://www.scopus.com/inward/authorDetails.url?authorID=36455008000&partnerID=MN8TOARS",
+        "twitter": null,
+        "wikipedia": null,
+        "mag": null
+    },
+    "counts_by_year": [
+        {
+            "year": 2012,
+            "works_count": 10,
+            "cited_by_count": 97
+        },
+        {
+            "year": 2013,
+            "works_count": 10,
+            "cited_by_count": 260
+        },
+        {
+            "year": 2014,
+            "works_count": 4,
+            "cited_by_count": 317
+        },
+        {
+            "year": 2015,
+            "works_count": 2,
+            "cited_by_count": 358
+        },
+        {
+            "year": 2016,
+            "works_count": 2,
+            "cited_by_count": 236
+        },
+        {
+            "year": 2017,
+            "works_count": 7,
+            "cited_by_count": 303
+        },
+        {
+            "year": 2018,
+            "works_count": 2,
+            "cited_by_count": 321
+        },
+        {
+            "year": 2019,
+            "works_count": 3,
+            "cited_by_count": 369
+        },
+        {
+            "year": 2020,
+            "works_count": 5,
+            "cited_by_count": 431
+        },
+        {
+            "year": 2021,
+            "works_count": 1,
+            "cited_by_count": 354
+        },
+        {
+            "year": 2022,
+            "works_count": 2,
+            "cited_by_count": 317
+        },
+        {
+            "year": 2023,
+            "works_count": 6,
+            "cited_by_count": 317
+        },
+        {
+            "year": 2024,
+            "works_count": 1,
+            "cited_by_count": 312
+        },
+        {
+            "year": 2025,
+            "works_count": 0,
+            "cited_by_count": 22
+        }
+    ]
+}

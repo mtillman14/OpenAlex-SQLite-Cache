@@ -10,7 +10,7 @@ INIT_DB_SQL_PATH = "init_db.sql"
 # https://docs.openalex.org/how-to-use-the-api/get-single-entities
 def init_openalex_db(file_path: str) -> sqlite3.Connection:
     """Initialize the OpenAlex SQLite database"""
-    if os.path.exists(file_path):
+    if os.path.exists(file_path) and file_path is not ":memory:":
         os.remove(file_path)
     
     conn = sqlite3.connect(file_path)

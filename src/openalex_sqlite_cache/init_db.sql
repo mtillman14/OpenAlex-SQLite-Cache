@@ -18,7 +18,7 @@ CREATE TABLE authors_counts_by_year (
     year INTEGER,
     works_count INTEGER,
     cited_by_count INTEGER,
-    oa_works_count INTEGER,
+    -- oa_works_count INTEGER, # Removed from the schema because it was not present in the payload from OpenAlex web API
     PRIMARY KEY (author_id, year)
 );
 
@@ -44,7 +44,7 @@ CREATE TABLE topics (
     domain_display_name TEXT,
     description TEXT,
     keywords TEXT,
-    works_api_url TEXT,
+    -- works_api_url TEXT, # Removed because this isn't part of the payload.
     wikipedia_id TEXT,
     works_count INTEGER,
     cited_by_count INTEGER,
