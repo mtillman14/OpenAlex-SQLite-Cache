@@ -1,10 +1,9 @@
 import sqlite3
-import json
 from typing import Union, List
 
 import pyalex
 
-from zotero_utils.OpenAlexDB.clean import remove_base_url
+from clean import remove_base_url
 
 class Concept:
 

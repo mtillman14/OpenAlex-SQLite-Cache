@@ -6,6 +6,8 @@ REPLACEMENTS = {
       "False": ''' "False" ''', 
       "None": ''' "None" '''}
 
+BASE_URL = "https://openalex.org/"
+
 def clean_string(string: str) -> str:
     """
     Cleans a string returned from the API so that it is properly formed JSON.
@@ -14,7 +16,7 @@ def clean_string(string: str) -> str:
         string = string.replace(old, new)
     return string
 
-def remove_base_url(string: str, base_url: str = "https://openalex.org/") -> str:
+def remove_base_url(string: str, base_url: str = BASE_URL) -> str:
     """
     Removes the base URL from a string.
     """

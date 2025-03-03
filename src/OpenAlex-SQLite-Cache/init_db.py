@@ -1,7 +1,10 @@
 import os
 import sqlite3
 
+INIT_DB_SQL_PATH = "init_db.sql"
+
 # Schema from here: https://docs.openalex.org/download-all-data/upload-to-your-database/load-to-a-relational-database
+#
 # Other API docs:
 # https://docs.openalex.org/api-entities/entities-overview
 # https://docs.openalex.org/how-to-use-the-api/get-single-entities
@@ -14,7 +17,9 @@ def init_openalex_db(file_path: str) -> sqlite3.Connection:
     cursor = conn.cursor()
 
     # Execute the SQL commands in init_db.sql
-    with open("src/zotero_utils/OpenAlexDB/init_db.sql", "r") as f:
+    directory = os.path.dirname(os.path.abspath(__file__))
+    init_db_sql_path = os.path.join(directory, INIT_DB_SQL_PATH)
+    with open(init_db_sql_path, "r") as f:
         sql_commands = f.read()
 
     cursor.executescript(sql_commands)
