@@ -125,7 +125,7 @@ CREATE TABLE institutions_counts_by_year (
     year INTEGER,
     works_count INTEGER,
     cited_by_count INTEGER,
-    oa_works_count INTEGER,
+    -- oa_works_count INTEGER, # Removed because it wasn't present in the payload from OpenAlex web API
     PRIMARY KEY (institution_id, year)
 );
 

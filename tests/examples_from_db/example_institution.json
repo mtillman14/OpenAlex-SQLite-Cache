@@ -1,0 +1,161 @@
+{
+    "id": "https://openalex.org/I27837315",
+    "ror": "https://ror.org/00jmfr291",
+    "display_name": "University of Michigan\u2013Ann Arbor",
+    "country_code": "US",
+    "type": "funder",
+    "homepage_url": "https://openalex.org/https://www.umich.edu",
+    "image_url": "https://openalex.org/https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/University%20of%20Michigan%20logo.svg",
+    "image_thumbnail_url": "https://openalex.org/https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/University%20of%20Michigan%20logo.svg&width=300",
+    "display_name_acronyms": [
+        "UM"
+    ],
+    "display_name_alternatives": [
+        "UMich",
+        "Universit\u00e9 du Michigan",
+        "University of Michigan"
+    ],
+    "works_count": 927785,
+    "cited_by_count": 22366066,
+    "works_api_url": "https://openalex.org/https://api.openalex.org/works?filter=institutions.id:I27837315",
+    "updated_date": "2025-02-23T19:27:56.495015",
+    "associated_institutions": [
+        {
+            "id": "https://openalex.org/I4404532909",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4402554065",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4387153780",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4210104572",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4210163254",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4387930282",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4387153798",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4210130704",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4210092198",
+            "relationship": "child"
+        },
+        {
+            "id": "https://openalex.org/I4387154935",
+            "relationship": "related"
+        },
+        {
+            "id": "https://openalex.org/I2801799315",
+            "relationship": "related"
+        },
+        {
+            "id": "https://openalex.org/I4210114445",
+            "relationship": "related"
+        }
+    ],
+    "counts_by_year": [
+        {
+            "year": 2012,
+            "works_count": 14778,
+            "cited_by_count": 791254
+        },
+        {
+            "year": 2013,
+            "works_count": 15341,
+            "cited_by_count": 858087
+        },
+        {
+            "year": 2014,
+            "works_count": 15758,
+            "cited_by_count": 919653
+        },
+        {
+            "year": 2015,
+            "works_count": 16062,
+            "cited_by_count": 960052
+        },
+        {
+            "year": 2016,
+            "works_count": 16824,
+            "cited_by_count": 987946
+        },
+        {
+            "year": 2017,
+            "works_count": 18295,
+            "cited_by_count": 1036517
+        },
+        {
+            "year": 2018,
+            "works_count": 18916,
+            "cited_by_count": 1116336
+        },
+        {
+            "year": 2019,
+            "works_count": 23023,
+            "cited_by_count": 1248071
+        },
+        {
+            "year": 2020,
+            "works_count": 25506,
+            "cited_by_count": 1459300
+        },
+        {
+            "year": 2021,
+            "works_count": 21033,
+            "cited_by_count": 1586396
+        },
+        {
+            "year": 2022,
+            "works_count": 454433,
+            "cited_by_count": 1495040
+        },
+        {
+            "year": 2023,
+            "works_count": 20599,
+            "cited_by_count": 1524013
+        },
+        {
+            "year": 2024,
+            "works_count": 18189,
+            "cited_by_count": 1455501
+        },
+        {
+            "year": 2025,
+            "works_count": 2040,
+            "cited_by_count": 174516
+        }
+    ],
+    "geo": {
+        "city": "Ann Arbor",
+        "geonames_city_id": "4984247",
+        "region": null,
+        "country_code": "US",
+        "country": "United States",
+        "latitude": 42.27756,
+        "longitude": -83.74088
+    },
+    "ids": {
+        "openalex": "https://openalex.org/I27837315",
+        "ror": "https://ror.org/00jmfr291",
+        "grid": "grid.214458.e",
+        "wikipedia": "https://en.wikipedia.org/wiki/University%20of%20Michigan",
+        "wikidata": "https://www.wikidata.org/wiki/Q230492",
+        "mag": 27837315
+    }
+}

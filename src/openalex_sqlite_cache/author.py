@@ -149,8 +149,3 @@ class Author(Entity):
         )
 
         conn.commit()
-
-        # check_table_has_data = cursor.execute("SELECT COUNT(*) FROM authors")
-        # count = check_table_has_data.fetchone()[0]
-        # print(f"Number of authors in the database: {count}")
-        # assert count > 0
