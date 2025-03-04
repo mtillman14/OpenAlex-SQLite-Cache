@@ -326,6 +326,8 @@ CREATE TABLE works_related_works (
     related_work_id TEXT
 );
 
+-- TODO: Create tables for funders
+
 -- Indexes
 CREATE INDEX concepts_ancestors_concept_id_idx ON concepts_ancestors(concept_id);
 CREATE INDEX concepts_related_concepts_concept_id_idx ON concepts_related_concepts(concept_id);
